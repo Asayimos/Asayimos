@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asayimos
-- 👀 I’m interested in money
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on NFT
 - 📫 How to reach me ...
